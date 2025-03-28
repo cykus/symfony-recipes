@@ -1,0 +1,14 @@
+{
+  "recipes": {
+    "acme/private-bundle": [
+      "1.0"
+    ]
+  },
+  "branch": "main",
+  "is_contrib": true,
+  "_links": {
+    "repository": "github.com/cykus/symfony-recipes",
+    "origin_template": "{package}:{version}@github.com/cykus/symfony-recipes:main",
+    "recipe_template": "https://api.github.com/repos/cykus/symfony-recipes/contents/{package_dotted}/{version}/manifest.json"
+  }
+}
