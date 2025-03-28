@@ -275,7 +275,7 @@
           ],
           "executable": false
         },
-        "config/packages/security.yaml": {
+        "config/packages/security2.yaml": {
           "contents": [
             "security:",
             "    role_hierarchy:",
