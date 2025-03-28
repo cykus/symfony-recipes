@@ -3,7 +3,8 @@
     "ephppl/sf-ea-project": {
       "manifest": {
         "copy-from-recipe": {
-          "src/": "%SRC_DIR%/"
+          "src/": "%SRC_DIR%/",
+          "config/": "%CONFIG_DIR%/"
         }
       },
 
