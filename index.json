@@ -1,6 +1,6 @@
 {
   "recipes": {
-    "acme/private-bundle": [
+    "ephp/sf-ea-project": [
       "1.0"
     ]
   },
