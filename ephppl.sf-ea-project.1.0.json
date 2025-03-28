@@ -275,7 +275,7 @@
           ],
           "executable": false
         },
-        "cpnfig/packages/security.yaml": {
+        "cpnfig/packages/security_user.yaml": {
           "contents": [
             "security:",
             "    role_hierarchy:",
